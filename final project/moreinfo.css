@@ -1,0 +1,14 @@
+header{
+    background-color: cadetblue;
+}
+header h1{
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 150px;
+}
+marquee{
+    font-size: xx-large;
+    color: black;
+}

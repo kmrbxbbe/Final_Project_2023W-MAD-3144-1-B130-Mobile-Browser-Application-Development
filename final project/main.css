@@ -1,0 +1,38 @@
+header{
+    background-color: cadetblue;
+}
+header h1{
+    text-align: center;
+}
+.topic h1{
+    text-align: center;
+    color: green;
+}
+li{
+    display: inline;
+    padding: 150px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.left-column{
+    flex: 1;
+    width: 200px;
+    padding: 100px;
+   
+    margin-left: 5px;
+    border: 2px solid black;
+}
+.right-column{
+    flex: 2;
+}
+img{
+    padding-left: 100px;
+    
+}
+footer{
+    background-color: black;
+    text-align: end;
+    color:aliceblue
+}

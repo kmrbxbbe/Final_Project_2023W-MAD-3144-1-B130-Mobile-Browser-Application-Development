@@ -1,0 +1,21 @@
+header{
+    background-color: cadetblue;
+}
+header h1{
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 150px;
+}
+img{
+    padding-left: 300px;
+}
+h1{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: end;
+}

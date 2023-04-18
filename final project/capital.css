@@ -1,0 +1,45 @@
+header{
+    background-color: cadetblue;
+}
+header h1{
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 150px;
+}
+img{
+    width: 500px;
+    height: 500px;
+    padding-left: 450px;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    color: chocolate;
+}
+h4{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    color:darkgreen;
+}
+body{
+    background-color: black;
+}
+fieldset{
+    border-color: aliceblue;
+    border-width: 3px;
+    color:royalblue;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+footer{
+    background-color: cadetblue;
+    text-align: end;
+}
+a{
+    color: cornsilk;
+}
